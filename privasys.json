@@ -1,0 +1,22 @@
+{
+    "version": "0.13.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Privasys/cli/releases/download/v0.13.0/privasys_0.13.0_windows_amd64.zip",
+            "bin": [
+                "privasys.exe"
+            ],
+            "hash": "e0e94f76c7daec3649f9d0d97ed9e75f399c9273015440a92bcae25710970e1e"
+        },
+        "arm64": {
+            "url": "https://github.com/Privasys/cli/releases/download/v0.13.0/privasys_0.13.0_windows_arm64.zip",
+            "bin": [
+                "privasys.exe"
+            ],
+            "hash": "a3605cd26cb50e872934f36e8fc2cc4f3435ea78728edac564c1d8622600f6bb"
+        }
+    },
+    "homepage": "https://privasys.org",
+    "license": "AGPL-3.0",
+    "description": "Deploy and verify confidential apps from your terminal or your agent"
+}
