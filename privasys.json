@@ -1,19 +1,19 @@
 {
-    "version": "0.17.0",
+    "version": "0.18.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Privasys/cli/releases/download/v0.17.0/privasys_0.17.0_windows_amd64.zip",
+            "url": "https://github.com/Privasys/cli/releases/download/v0.18.0/privasys_0.18.0_windows_amd64.zip",
             "bin": [
                 "privasys.exe"
             ],
-            "hash": "ca30aac75973f32032958e71ea17b86a96349d3b35b3cc154bead86d11387753"
+            "hash": "7a65f8eebeb72db714f758d962b92ee7f2800d8efd4e1c498a15b98f880f759e"
         },
         "arm64": {
-            "url": "https://github.com/Privasys/cli/releases/download/v0.17.0/privasys_0.17.0_windows_arm64.zip",
+            "url": "https://github.com/Privasys/cli/releases/download/v0.18.0/privasys_0.18.0_windows_arm64.zip",
             "bin": [
                 "privasys.exe"
             ],
-            "hash": "7271a63d38b9b91797731d7392ad0aa8bc4647ad34d3ea3f076b68c8a1a00853"
+            "hash": "82bdc00ac2065f57055070b4f460b51f268310b4d7622084137b67a4945eb54f"
         }
     },
     "homepage": "https://privasys.org",
